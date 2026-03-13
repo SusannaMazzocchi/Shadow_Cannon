@@ -63,9 +63,6 @@ During this project, I really learned how important it is to keep code modular a
 4. Run the game
    ```bash
    python main.py
-
-
-
 ---
 
 ## 📄 Full Report
