@@ -53,7 +53,7 @@ During this project, I really learned how important it is to keep code modular a
 
 1. Clone the repository
    ```bash
-   git clone [https://github.com/SusannaMazzocchi/shadow-cannon.git](https://github.com/SusannaMazzocchi/shadow-cannon.git)
+   git clone https://github.com/SusannaMazzocchi/Shadow_Cannon.git
 2. Navigate to the project folder
    ```bash
    cd "shadow cannon game"
